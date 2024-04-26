@@ -1,8 +1,17 @@
-# What you need to print
-* 2 * Brace  
-* 2 * Brace (Morrored around the `y` axis)  
-* 2 * Top  
-* 4 * Foot  
-* 2 * Staff Holder for each staff you want to store on the stand  
+# Required printed parts
+* 2 * [Brace](Brace.stl)
+* 2 * [Brace](Brace.stl) (Morrored around the `y` axis)  
+* 2 * [Top](Top.stl)
+* 4 * [Foot](Foot.stl)  
+* 2 * [Staff Holder](StaffHolder.stl) for each staff you want to store on the stand  
 
-[brace](Brace.stl)
+# Required rods
+All these rods need to be 3mm in diameter
+
+* 4 * 160mm
+* 2 * 108mm
+
+
+<!-- <img src="Sizes.JPG" width="500"/> -->
+
+![Sizes](Sizes.JPG)
