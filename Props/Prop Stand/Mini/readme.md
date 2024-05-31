@@ -10,6 +10,7 @@ All these rods need to be 3mm in diameter
 
 * 4 * 160mm
 * 2 * 108mm
+* 3 * 100mm
 
 
 <!-- <img src="Sizes.JPG" width="500"/> -->
